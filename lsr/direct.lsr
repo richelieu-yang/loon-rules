@@ -1,7 +1,6 @@
 # LaLa Network目前只能国内访问
 DOMAIN-SUFFIX,lala.gg
 
-# HSR亚服会发送UDP请求（走阿里云的中国优化线路，走DIRECT延迟低）
-IP-CIDR,8.209.0.0/16
-IP-CIDR,47.74.0.0/16
-IP-CIDR,47.245.0.0/16
+# HSR亚服会发送UDP请求（阿里云的中国优化线路，走 DIRECT 延迟低）
+IP-CIDR,8.211.159.0/24
+IP-CIDR,47.245.31.0/24
