@@ -3,6 +3,10 @@ DOMAIN-SUFFIX,starrail.cc
 # LaLa Network目前只能国内访问
 DOMAIN-SUFFIX,lala.gg
 
+# DMIT
+IP-CIDR,154.26.178.42/32
+
+
 ### HSR亚服会发送UDP请求（阿里云的中国优化线路，走 DIRECT 延迟低） ###
 # IP-CIDR,8.209.0.0/16
 # IP-CIDR,8.211.0.0/16
